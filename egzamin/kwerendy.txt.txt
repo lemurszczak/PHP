@@ -1,0 +1,5 @@
+k1 select id,marka,model from samochody;
+
+k2 select id,klient from zamowienia;
+
+k3 select marka from samochody where marka="fiat";
